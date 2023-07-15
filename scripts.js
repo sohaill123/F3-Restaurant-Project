@@ -70,7 +70,7 @@ getMenu();
 
 function takeOrder() {
     // console.log( window.location.href )
-    window.location.href = "https://shiva-saini.github.io/f3_c1/index1.html";
+    window.location.href = "https://sohaill123.github.io/F3-Restaurant-Project/index1.html";
     
 }
 
