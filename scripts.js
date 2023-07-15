@@ -70,7 +70,7 @@ getMenu();
 
 function takeOrder() {
     // console.log( window.location.href )
-    window.location.href = "https://sohaill123.github.io/F3-Restaurant-Project/index1.html";
+    window.location.href = "http://localhost:5500/index1.html";
     
 }
 
