@@ -75,7 +75,7 @@ takeOrderData.then(data => {
 .then(data => {
     return orderPrep();
 }).then(data => {
-    console.log("data after 1.5s is " ,data);
+    console.log("data after 2.5s is " ,data);
 }).then(data => {
     return payOrder();
 }).then(data => {
